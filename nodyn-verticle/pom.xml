@@ -133,7 +133,7 @@
           <verbose>true</verbose>
           <forkCount>0</forkCount>
           <includes>
-            <include>**unit/*Test*.java</include>
+            <include>**/*Test*.java</include>
           </includes>
         </configuration>
       </plugin>
